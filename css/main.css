@@ -1026,6 +1026,10 @@ body{
     margin-bottom: 1rem;
   }
 
+  .md\:-mt-14 {
+    margin-top: -3.5rem;
+  }
+
   .md\:block {
     display: block;
   }
